@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tamagotchi.ChooseFood">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIQAAACCAAAIAAACAACADAAABAABAAKAQAAAAAAA=</HashCode>
+      <FileName>ChooseFood.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tamagotchi.ChooseType">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAEAACCAAAAAgQACAAAACAAABEAgIAAAAAAAQAAA=</HashCode>
+      <FileName>ChooseType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tamagotchi.Tama">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIAAwgoASDAAAAQwgCAUABCCICRAgABiGQBSAAAAQA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tamagotchi.Program">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tamagotchi.SLEEP">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAgAAAACAAAACAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>SLEEP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tamagotchi.Properties.Resources" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tamagotchi.Properties.Settings">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
